@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevNest Hub Portfolio</title>
+    <title>NAGUIT PORTFOLIO</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
@@ -23,7 +23,7 @@ body, html {
 }
 .navbar-brand {
     font-weight: bold;
-    color: #ff9800 !important;
+    color: #2098a8 !important;
     font-size: 1.5rem;
 }
 .navbar-nav .nav-link {
@@ -32,7 +32,7 @@ body, html {
     font-size: 1.1rem;
 }
 .navbar-nav .nav-link:hover {
-    color: #ff9800 !important;
+    color: #676a6e !important;
 }
 .hero {
     height: 100vh;
@@ -57,8 +57,8 @@ body, html {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    border: 4px solid #ffcc00;
-    box-shadow: 0 0 15px #ffcc00;
+    border: 4px solid #93989b;
+    box-shadow: 0 0 15px #93989b;
 }
 .btn-glow {
     background: #ff9800;
@@ -108,13 +108,13 @@ body, html {
 }
 .form-control {
     background: #222;
-    border: 1px solid #ff9800;
+    border: 1px solid #034747;
     color: #fff;
     padding: 12px;
     border-radius: 5px;
 }
 .form-control:focus {
-    border-color: #e68900;
+    border-color: #034747;
     box-shadow: 0 0 10px rgba(255, 152, 0, 0.5);
 }
 #form-status {
@@ -139,12 +139,12 @@ body, html {
 }
 .social-links a {
     font-size: 24px;
-    color: #ff9800;
+    color: #6b8b8d;
     transition: transform 0.3s, color 0.3s;
 }
 .social-links a:hover {
     transform: scale(1.2);
-    color: #e68900;
+    color: #354964;
 }
 @media (max-width: 768px) {
     .hero h1 {
@@ -183,12 +183,12 @@ body, html {
     <div class="container text-center">
         <div class="row justify-content-center">
             <div class="col-md-8">
-                <h1 class="display-4 fw-bold">DevNest Innovations</h1>
-                <img src="https://scontent.fmnl9-6.fna.fbcdn.net/v/t1.15752-9/483006314_674369485187555_8701286480438671963_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHY98BTeC84994lOkpBQWSDturCIof46L626sIih_jovjxyaG6-5QuBRb-WUpt9EpKMd93KHZTrM7V2gDOhB57v&_nc_ohc=e2L5wv79u80Q7kNvwHxubNB&_nc_oc=Adm7EB__-E3co_ViEvg32TIcWKBpriOTcabgRKxCZji4LusxzCq7m7dW4NqHb-BmruY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl9-6.fna&oh=03_Q7cD2AE0IXB9BFvdcoXiecbv3beHBm_1P5psXGQruc_XPFDCWw&oe=682D8C67" alt="" class="profile-img">
+                <h1 class="display-4 fw-bold">NAGUIT PORTFOLIO</h1>
+                <img src="c:\Users\AMD\Downloads\455691703_444278178612163_5029911740413885639_n.jpg" alt="" class="profile-img">
                 <p class="lead"><br>Welcome to My Website. <br> Hello! I am Sean Warren L. Naguit, a Computer Science Student.
                     <br> I'm currently a 2nd Year student studying at City College of Angeles.</p>
                 
-                <a href="#projects" class="btn btn-glow mt-3">Explore</a>
+                <a href="#projects" class="btn btn-primary mt-3">Explore</a>
             </div>
         </div>
     </div>
@@ -200,7 +200,7 @@ body, html {
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://scontent.fmnl4-4.fna.fbcdn.net/v/t1.15752-9/487566319_1009603260597997_2359678798616798427_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeG3JkedmMYCpZPlSaYpectMhCgHz4IrNX6EKAfPgis1fnhUGTgZF3gdLMv7daoeS9dihvD_yH3KeIpyc_49vfBS&_nc_ohc=CNA9u2cmNy8Q7kNvgEyPEBE&_nc_oc=Adk2ngWxfqprDukKoJlclRrehavL3wabbW_3alYoP78Ag9MXC9YwWJErvVFwK5nyVIHktQeEEuXRhVzBMk9OOUnZ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl4-4.fna&oh=03_Q7cD1wFweNnlW9OLRMik6JjgQVNrSHsPw3bagAZQVq-2zJmBQQ&oe=68130EEF">
+                    <img src="c:\Users\AMD\Downloads\3163fb25-056f-4924-9b52-c6d26610cfb1.jpg">
                     <div class="card-body">
                         <h5 class="card-title">SHS GRADUATION</h5>
                         <p class="card-text">I Finish my High School journey S.Y. 2022-2023 at ACSCI.</p>
@@ -209,7 +209,7 @@ body, html {
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t1.15752-9/487406800_1855911231908523_623561674324023799_n.png?stp=dst-png_s600x600&_nc_cat=109&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGpnf6djQIeO1khQnSIy8wiP9EpYIKg8wk_0SlggqDzCePGMGcT6s-6zBRUEl4tcaxdbnI7sicVAsEz1pHtnghn&_nc_ohc=q13G54b4xjwQ7kNvgG38XAh&_nc_oc=Adn5Z_NWYyHyTBxFp1A-JxjVG6rlmLngrvPjmgUZsEC3mY4vSDGiE4jyuvLetnebD7NAaAbdyhbvxKqDKKnGK7CB&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl4-3.fna&oh=03_Q7cD1wH9LHN5uGi2QnDKunr1Xp5iOjDy1QNlQaPWUc3zTyIaGg&oe=68134033" class="card-img-top" alt="Inventory Management System Project">
+                    <img src="c:\Users\AMD\Downloads\c4133fe7-a987-46bc-87c6-e6130cec6069.jpg" class="card-img-top" alt="Inventory Management System Project">
                     <div class="card-body">
                         <h5 class="card-title">IT Essentials</h5>
                         <p class="card-text">IT Essentials PC Hardware and Software.</p>
@@ -218,7 +218,7 @@ body, html {
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.15752-9/488519368_4031669230448079_335813943336331700_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeF5syT3HyiAy-OEVSBfGGsEHOGFmCz4cVMc4YWYLPhxU6vOo-bDdb3bgVztGpWqlBZAlMvNocvbHeEaNzbI0Wr9&_nc_ohc=nH18I8k1kGYQ7kNvgEqKaNu&_nc_oc=AdkldIzdKqxUfMv92fen10bqFYkExBqGS9xpgTyYwmPzurLtCmoZBZfYv4R6BU493QSbPdXQmfQ3e_-dPNxMzECJ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl4-2.fna&oh=03_Q7cD1wG2NHMx79iAl-yNKua7T3EVLfIWeP7I8azdhpuuGtk5zg&oe=6813441D">
+                    <img src="c:\Users\AMD\Downloads\17d53f11-f251-4803-b1c3-b585c00972ec.jpg">
                     <div class="card-body">
                         <h5 class="card-title">CHAMPION IN 3X3</h5>
                         <p class="card-text">My first achievement in Basketball.</p>
@@ -232,10 +232,10 @@ body, html {
     <div class="container">
         <h2 class="text-center">My Skills</h2>
         <div class="progress my-2">
-            <div class="progress-bar bg-warning" style="width: 80%">HTML & CSS - 80%</div>
+            <div class="progress-bar bg-primary" style="width: 80%">HTML & CSS - 80%</div>
         </div>
         <div class="progress my-2">
-            <div class="progress-bar bg-warning" style="width: 50%">JavaScript - 50%</div>
+            <div class="progress-bar bg-success" style="width: 50%">JavaScript - 50%</div>
         </div>
     </div>
 </section>
@@ -352,7 +352,7 @@ body, html {
             <textarea class="form-control" id="message" rows="4" placeholder="Write your message here..." required></textarea>
             <small id="messageError" class="text-danger d-none" aria-live="polite">Message cannot be empty</small>
         </div>
-        <button id="Send" type="submit" class="btn btn-glow">Send</button>
+        <button id="Send" type="submit" class="btn btn-primary">Send</button>
         <p id="form-status" class="mt-3 text-center"></p>
         
 <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
