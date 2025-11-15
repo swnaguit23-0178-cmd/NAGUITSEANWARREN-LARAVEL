@@ -90,12 +90,6 @@ body, html {
     transform: scale(1.05);
     box-shadow: 0 6px 15px rgba(255, 152, 0, 0.3);
 }
-.navbar-brand span {
-    background-color: #ff9800; 
-    color: rgb(0, 0, 0); 
-    padding: 5px 10px; 
-    border-radius: 5px; 
-}
 .icon-btn {
     display: inline-block;
     width: 60px; 
@@ -127,6 +121,7 @@ body, html {
     color: #ff9800;
     font-weight: bold;
 }
+
 .btn-submit {
     background-color: #ff9800;
     color: black;
@@ -168,7 +163,7 @@ body, html {
     <!-- Navigation Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">DevNest <span>Hub</span></a>
+            <a class="navbar-brand" href="#">NAGUIT <span>PORTFOLIO</span></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -368,7 +363,7 @@ body, html {
 <!-- Footer -->
 <footer class="text-center mt-5 py-3 bg-dark text-light">
     <div class="container">
-        <p>&copy; <span id="currentYear"></span> DevNest Hub. All Rights Reserved.</p>
+        <p>&copy; <span id="currentYear"></span> Naguit Portfolio. All Rights Reserved.</p>
         <div class="social-links text-center mt-4">
             <a href="https://www.instagram.com/pakul_seany?igsh=MWpvaWpxN3Z6OGNpNg==" target="_blank" class="social-icon">
                 <i class="fab fa-instagram fa-2x"></i>
