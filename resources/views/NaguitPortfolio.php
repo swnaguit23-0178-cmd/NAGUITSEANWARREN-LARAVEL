@@ -186,7 +186,7 @@ body, html {
                 <h1 class="display-4 fw-bold">NAGUIT PORTFOLIO</h1>
                 <img src="c:\Users\AMD\Downloads\455691703_444278178612163_5029911740413885639_n.jpg" alt="" class="profile-img">
                 <p class="lead"><br>Welcome to My Website. <br> Hello! I am Sean Warren L. Naguit, a Computer Science Student.
-                    <br> I'm currently a 2nd Year student studying at City College of Angeles.</p>
+                    <br> I'm currently a 3rd Year student studying at City College of Angeles.</p>
                 
                 <a href="#projects" class="btn btn-primary mt-3">Explore</a>
             </div>
