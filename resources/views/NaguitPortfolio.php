@@ -13,7 +13,7 @@ body, html {
     padding: 0;
     font-family: 'Arial', sans-serif;
     background-color: #000;
-    color: #fff;
+    color: #fff; 
     scroll-behavior: smooth;
     scroll-padding-top:80px;
 }
@@ -180,11 +180,11 @@ body, html {
     </nav>
 <!-- Hero Section -->
 <section id="home" class="hero d-flex align-items-center">
-    <div class="container text-center">
+    <div class="container text-center"> 
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h1 class="display-4 fw-bold">NAGUIT PORTFOLIO</h1>
-                <img src="c:\Users\AMD\Downloads\455691703_444278178612163_5029911740413885639_n.jpg" alt="" class="profile-img">
+                <img src="bilog.jpg" alt="" class="profile-img">
                 <p class="lead"><br>Welcome to My Website. <br> Hello! I am Sean Warren L. Naguit, a Computer Science Student.
                     <br> I'm currently a 3rd Year student studying at City College of Angeles.</p>
                 
@@ -200,7 +200,7 @@ body, html {
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
             <div class="col">
                 <div class="card h-100">
-                    <img src="c:\Users\AMD\Downloads\3163fb25-056f-4924-9b52-c6d26610cfb1.jpg">
+                    <img src="shs.jpg">
                     <div class="card-body">
                         <h5 class="card-title">SHS GRADUATION</h5>
                         <p class="card-text">I Finish my High School journey S.Y. 2022-2023 at ACSCI.</p>
@@ -209,7 +209,7 @@ body, html {
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="c:\Users\AMD\Downloads\c4133fe7-a987-46bc-87c6-e6130cec6069.jpg" class="card-img-top" alt="Inventory Management System Project">
+                    <img src="cert.jpg" class="card-img-top" alt="Inventory Management System Project">
                     <div class="card-body">
                         <h5 class="card-title">IT Essentials</h5>
                         <p class="card-text">IT Essentials PC Hardware and Software.</p>
@@ -218,7 +218,7 @@ body, html {
             </div>
             <div class="col">
                 <div class="card h-100">
-                    <img src="c:\Users\AMD\Downloads\17d53f11-f251-4803-b1c3-b585c00972ec.jpg">
+                    <img src="bball.jpg">
                     <div class="card-body">
                         <h5 class="card-title">CHAMPION IN 3X3</h5>
                         <p class="card-text">My first achievement in Basketball.</p>
