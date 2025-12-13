@@ -12,7 +12,7 @@ This portfolio serves as a centralized platform to highlight my profile, achieve
 
 ## ✨ Features
 
-- Portfolio Profile – Displays personal information and background  
+- **Portfolio Profile** – Displays personal information and background  
 - **Achievements** – Highlights academic and personal accomplishments  
 - **Skills Section** – Showcases technical and professional skills  
 - **Projects** – Presents academic and personal development projects  
